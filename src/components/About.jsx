@@ -31,7 +31,7 @@ export default function About({ onOpenResume }) {
             Engineering Clean Code & Data-Driven Solutions
           </h2>
           <p className="mt-3 text-base sm:text-lg text-slate-600 dark:text-slate-400">
-            Passionate Information Technology student with practical software engineering experience.
+            Information Technology graduate with practical software engineering and data systems experience.
           </p>
         </div>
 

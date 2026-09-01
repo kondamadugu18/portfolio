@@ -14,9 +14,9 @@ export const personalInfo = {
   leetcode: "https://leetcode.com/kondamadugu18",
   avatar: "/profile.jpg",
   resumeUrl: "/Kondamadugu_Narsimulu_Resume.pdf",
-  bio: "Highly motivated and results-driven Information Technology undergraduate graduating in 2026. Proficient in Software Development, Python, SQL, Data Analytics, and Web Development. Passionate about engineering clean, scalable applications, solving complex algorithmic problems, and building data-driven solutions.",
+  bio: "Highly motivated and results-driven B.Tech Information Technology graduate. Proficient in Software Development, Python, SQL, Data Analytics, and Web Development. Passionate about engineering clean, scalable applications, solving complex algorithmic problems, and building data-driven solutions.",
   aboutDetailed: [
-    "I am an Information Technology undergraduate at St. Martin's Engineering College, Hyderabad, with a strong foundation in software engineering, database architectures, and data-driven systems.",
+    "I am an Information Technology graduate from St. Martin's Engineering College, Hyderabad, with a strong foundation in software engineering, database architectures, and data-driven systems.",
     "My technical focus spans robust Python backend development, relational database engineering with SQL, modern interactive frontends, and applied data analytics. I enjoy translating real-world requirements into clean, maintainable code and building high-performance applications.",
     "With 100+ algorithmic problems solved on LeetCode and multiple hands-on industry internships, I combine technical discipline with agile teamwork and continuous learning."
   ],

@@ -37,7 +37,7 @@ export default function Hero({ onOpenResume }) {
             {/* Status Badge */}
             <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full border border-cyan-500/30 bg-cyan-500/10 text-cyan-700 dark:text-cyan-300 text-xs sm:text-sm font-medium mb-6 backdrop-blur-md shadow-sm">
               <span className="w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse" />
-              <span>Available for Full-time Roles & Internships (Batch 2026)</span>
+              <span>Available for Full-time Software & Data Engineering Roles</span>
             </div>
 
             {/* Main Name Heading */}
@@ -67,7 +67,7 @@ export default function Hero({ onOpenResume }) {
 
             {/* Professional Narrative Introduction */}
             <p className="text-base sm:text-lg text-slate-600 dark:text-slate-300 leading-relaxed max-w-2xl mb-8">
-              An <strong>Information Technology</strong> undergraduate passionate about engineering high-impact software, writing clean <span className="text-cyan-600 dark:text-cyan-400 font-medium">Python</span> backend architectures, executing deep <span className="text-indigo-600 dark:text-indigo-400 font-medium">SQL & Data Analytics</span>, and crafting responsive web applications.
+              An <strong>Information Technology</strong> graduate passionate about engineering high-impact software, writing clean <span className="text-cyan-600 dark:text-cyan-400 font-medium">Python</span> backend architectures, executing deep <span className="text-indigo-600 dark:text-indigo-400 font-medium">SQL & Data Analytics</span>, and crafting responsive web applications.
             </p>
 
             {/* Call to Action Buttons */}
